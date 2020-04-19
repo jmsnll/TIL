@@ -9,6 +9,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Categories](#categories)
   - [Bash](#bash)
   - [Go](#go)
+  - [Zsh](#zsh)
   
 
 ---
@@ -23,6 +24,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Go
 
 - [replace-current-process-with-external-command.md](markdown/go/replace-current-process-with-external-command.md)
+
+
+### Zsh
+
+- [fzf-fuzzy-history-and-file-searching.md](markdown/zsh/fzf-fuzzy-history-and-file-searching.md)
 
 
 ---
