@@ -9,6 +9,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Categories
 - [Bash](#bash)
 - [Go](#go)
+- [Unix](#unix)
 - [Zsh](#zsh)
 
 
@@ -24,6 +25,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Go
 
 - [replace-current-process-with-external-command.md](markdown/go/replace-current-process-with-external-command.md)
+
+
+### Unix
+
+- [check-if-a-port-is-in-use.md](markdown/unix/check-if-a-port-is-in-use.md)
 
 
 ### Zsh
