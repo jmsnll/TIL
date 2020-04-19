@@ -21,6 +21,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### Terminal
 
+- [brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md](markdown/terminal/brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md)
 - [change-readline-to-use-vi-bindings.md](markdown/terminal/change-readline-to-use-vi-bindings.md)
 
 
