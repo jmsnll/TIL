@@ -7,14 +7,16 @@ A collection of concise write-ups on small things I learn day to day across a va
 --- 
 
 - [Categories](#categories)
-  {{range $index, $topic := .}}- [{{$topic.Name}}](#{{$topic.Identifier}}){{end}}
+  {{range $index, $topic := .}}- [{{$topic.Name}}](#{{$topic.Identifier}})
+  {{end}}
 
 ---
 
 {{range $index, $topic := .}}
 ### {{$topic.Name}}
 
-{{range $index, $entry := .Entries}}- [{{$entry.Title}}]({{$entry.RelativePath}}){{end}}
+{{range $index, $entry := .Entries}}- [{{$entry.Title}}]({{$entry.RelativePath}})
+{{end}}
 {{end}}
 ---
 
