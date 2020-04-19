@@ -8,6 +8,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [Categories](#categories)
   - [Go](#go)
+  - [Terminal](#terminal)
   
 
 ---
@@ -16,6 +17,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Go
 
 - [replace-current-process-with-external-command.md](markdown/go/replace-current-process-with-external-command.md)
+
+
+### Terminal
+
+- [change-readline-to-use-vi-bindings.md](markdown/terminal/change-readline-to-use-vi-bindings.md)
 
 
 ---
