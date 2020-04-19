@@ -7,22 +7,22 @@ A collection of concise write-ups on small things I learn day to day across a va
 --- 
 
 - [Categories](#categories)
+  - [Bash](#bash)
   - [Go](#go)
-  - [Terminal](#terminal)
   
 
 ---
 
 
+### Bash
+
+- [brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md](markdown/bash/brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md)
+- [change-readline-to-use-vi-bindings.md](markdown/bash/change-readline-to-use-vi-bindings.md)
+
+
 ### Go
 
 - [replace-current-process-with-external-command.md](markdown/go/replace-current-process-with-external-command.md)
-
-
-### Terminal
-
-- [brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md](markdown/terminal/brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md)
-- [change-readline-to-use-vi-bindings.md](markdown/terminal/change-readline-to-use-vi-bindings.md)
 
 
 ---
