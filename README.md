@@ -6,11 +6,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 --- 
 
-- [Categories](#categories)
-  - [Bash](#bash)
-  - [Go](#go)
-  - [Zsh](#zsh)
-  
+## [Categories]
+- [Bash](#bash)
+- [Go](#go)
+- [Zsh](#zsh)
+
 
 ---
 
