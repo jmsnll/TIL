@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 --- 
 
-## [Categories]
+## Categories
 {{range $index, $topic := .}}- [{{$topic.Name}}](#{{$topic.Identifier}})
 {{end}}
 
