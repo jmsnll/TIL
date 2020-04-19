@@ -7,14 +7,16 @@ A collection of concise write-ups on small things I learn day to day across a va
 --- 
 
 - [Categories](#categories)
-  - [Example](#example)
+  - [Go](#go)
+  
 
 ---
 
 
-### Example
+### Go
 
-- [markdown.md](markdown/example/markdown.md)
+- [replace-current-process-with-external-command.md](markdown/go/replace-current-process-with-external-command.md)
+
 
 ---
 
