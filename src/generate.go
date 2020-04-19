@@ -26,7 +26,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	file, err := os.Create("README.md")
+	file, err := os.Create("../README.md")
 	if err != nil {
 		panic(err)
 	}
@@ -44,7 +44,7 @@ func EnumerateTopics() []Topic {
 		panic(err)
 	}
 
-	markdownFolder := filepath.Join(cwd, "markdown")
+	markdownFolder := filepath.Join(cwd, "../", "markdown")
 
 	dirs, err := ioutil.ReadDir(markdownFolder)
 	if err != nil {
