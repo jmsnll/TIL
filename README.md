@@ -30,6 +30,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Unix
 
 - [check-if-a-port-is-in-use.md](markdown/unix/check-if-a-port-is-in-use.md)
+- [finding-files-with-fd.md](markdown/unix/finding-files-with-fd.md)
 
 
 ### Zsh
