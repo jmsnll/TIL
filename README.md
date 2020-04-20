@@ -18,7 +18,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### Bash
 
-- [Brace Expansion For Quick Copying Moving And General Naming Of Files](markdown/bash/brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md)
+- [Brace Expansion For Quick Manipulation Of File Paths](markdown/bash/brace-expansion-for-quick-manipulation-of-file-paths.md)
 - [Change Readline To Use Vi Bindings](markdown/bash/change-readline-to-use-vi-bindings.md)
 
 
