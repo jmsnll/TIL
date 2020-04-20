@@ -18,24 +18,24 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### Bash
 
-- [brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md](markdown/bash/brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md)
-- [change-readline-to-use-vi-bindings.md](markdown/bash/change-readline-to-use-vi-bindings.md)
+- [Brace Expansion For Quick Copying Moving And General Naming Of Files](markdown/bash/brace-expansion-for-quick-copying-moving-and-general-naming-of-files.md)
+- [Change Readline To Use Vi Bindings](markdown/bash/change-readline-to-use-vi-bindings.md)
 
 
 ### Go
 
-- [replace-current-process-with-external-command.md](markdown/go/replace-current-process-with-external-command.md)
+- [Replace Current Process With External Command](markdown/go/replace-current-process-with-external-command.md)
 
 
 ### Unix
 
-- [check-if-a-port-is-in-use.md](markdown/unix/check-if-a-port-is-in-use.md)
-- [finding-files-with-fd.md](markdown/unix/finding-files-with-fd.md)
+- [Check If A Port Is In Use](markdown/unix/check-if-a-port-is-in-use.md)
+- [Finding Files With Fd](markdown/unix/finding-files-with-fd.md)
 
 
 ### Zsh
 
-- [fzf-fuzzy-history-and-file-searching.md](markdown/zsh/fzf-fuzzy-history-and-file-searching.md)
+- [Fzf Fuzzy History And File Searching](markdown/zsh/fzf-fuzzy-history-and-file-searching.md)
 
 
 ---
