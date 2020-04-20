@@ -74,7 +74,7 @@ func EnumerateTopics() []Topic {
 			extension := filepath.Ext(filepath.Join(markdownFolder, v.Name(), t.Name()))
 			if extension == ".md" {
 				entry := Entry{
-					Title:        t.Name(),
+					Title:        getTitleFromFileName(t),
 					RelativePath: filepath.Join("markdown", v.Name(), t.Name()),
 				}
 				topic.Entries = append(topic.Entries, entry)
@@ -95,4 +95,10 @@ func ignoreProjectFolders(file os.FileInfo) bool {
 	}
 
 	return false
+}
+
+func getTitleFromFileName(file os.FileInfo) string {
+	name := strings.TrimSuffix(file.Name(), filepath.Ext(file.Name()))
+	name = strings.Replace(name, "-", " ", -1)
+	return strings.Title(name)
 }
