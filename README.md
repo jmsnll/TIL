@@ -31,6 +31,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Python
 
 - [Interactive Debugging On Terminal](markdown/python/interactive-debugging-on-terminal.md)
+- [Start A Static Http Server In Any Directory](markdown/python/start-a-static-http-server-in-any-directory.md)
 
 
 ### Unix
