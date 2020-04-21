@@ -9,6 +9,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Categories
 - [Bash](#bash)
 - [Go](#go)
+- [Python](#python)
 - [Unix](#unix)
 - [Zsh](#zsh)
 
@@ -25,6 +26,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Go
 
 - [Replace Current Process With External Command](markdown/go/replace-current-process-with-external-command.md)
+
+
+### Python
+
+- [Interactive Debugging On Terminal](markdown/python/interactive-debugging-on-terminal.md)
 
 
 ### Unix
