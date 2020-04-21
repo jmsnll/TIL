@@ -9,6 +9,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Categories
 - [Bash](#bash)
 - [Go](#go)
+- [I3wm](#i3wm)
 - [Python](#python)
 - [Unix](#unix)
 - [Zsh](#zsh)
@@ -26,6 +27,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Go
 
 - [Replace Current Process With External Command](markdown/go/replace-current-process-with-external-command.md)
+
+
+### I3wm
+
+- [Xkill Is Your Friend](markdown/i3wm/xkill-is-your-friend.md)
 
 
 ### Python
