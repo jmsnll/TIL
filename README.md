@@ -57,6 +57,12 @@ I shamelessly stole this idea from [jbranchaud/til](https://github.com/jbranchau
 - [jwworth/til](https://github.com/jwworth/til)
 - [thoughtbot/til](https://github.com/thoughtbot/til)
 
+### Improvements
+
+- Refactor `README.md` generator to combine `Topic` and `Entry` types to allow further nesting and better categorization.  
+   - Root nodes are headings
+   - Only link a node if it has no descendants (i.e. points to a file, not a folder)
+
 ## License
 
 &copy; 2020 James Neill
